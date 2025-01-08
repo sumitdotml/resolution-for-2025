@@ -191,10 +191,11 @@ I have literally no idea how to do this, but this is worth starting to consider 
 - really good at Python
 - really good at traditional ML
 - really good at ML Math
-- good at PyTorch and NumPy
-- okay at ML Systems
-- okay-ish at C++
-- okay-ish at reading and implementing papers
+- really good at PyTorch and NumPy
+- good/okay-ish at ML Systems (the engineering side)
+- good/okay-ish at C++ (I don't know anything about it)
+- good at reading and implementing papers
+- just become a solid ML practitioner in general
 
 ---
 
