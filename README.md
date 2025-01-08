@@ -200,7 +200,7 @@ I have literally no idea how to do this, but this is worth starting to consider 
 
 ### 2. Job (not current work)
 
-> Hopefully will get a ML job by the end of this year (aiming for within my company).
+Hopefully will get a ML job by the end of this year (aiming for within my company).
 
 ---
 
@@ -210,5 +210,6 @@ Not entirely sure if this is even needed at this point to be honest, but maybe t
 
 ---
 
-## > [!IMPORTANT]
-> Paul Graham's [How to do Great Work](https://paulgraham.com/greatwork.html)
+## Resources
+
+- Paul Graham's [How to do Great Work](https://paulgraham.com/greatwork.html)
