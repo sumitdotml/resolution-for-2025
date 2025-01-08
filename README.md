@@ -40,8 +40,9 @@ Could add some more, but this is what I have for now. Maybe this is enough, hone
 > [!IMPORTANT]
 > First Half of 2025
 
-> **Hopefully** by the end of _January_
-> Need to throughly understand everything there. Needs a lot of revision at the moment. I also need to do the additional materials (LoRA, etc.).
+**Hopefully** by the end of ***January***.
+
+Need to throughly understand everything there. Needs a lot of revision at the moment. I also need to do the additional materials (LoRA, etc.).
 
 ---
 
@@ -49,7 +50,8 @@ Could add some more, but this is what I have for now. Maybe this is enough, hone
 
 > [!IMPORTANT]
 > First Half of 2025
-> **Hopefully** by the end of _February_
+
+**Hopefully** by the end of ***February***.
 
 ---
 
@@ -69,7 +71,7 @@ For this, I may also need to regularly refer to the numpy documentation, but tha
 > [!IMPORTANT]
 > First Half of 2025
 
-> Should be done with this by the end of _February_.
+Should be done with this by the end of ***February***.
 
 1. [Zero to Mastery PyTorch Book](https://www.learnpytorch.io/)
 
@@ -84,7 +86,7 @@ However, I think I can learn this by doing things most likely (by just implement
 > [!IMPORTANT]
 > First Half of 2025
 
-> Hopefully by the end of _June_.
+**Hopefully** by the end of ***June***.
 
 ----------
 
@@ -97,33 +99,33 @@ However, I think I can learn this by doing things most likely (by just implement
 2. Some RAG stuff
 ...
 
-Add more. The point here is to do different kinds of them to reinforce my skills. _Point to note_ here is that this isn't quite the ML Engineering here yet; that will be later this year.
+Add more. I should do different kinds of them to reinforce my skills. _Point to note_ here is that this isn't quite the ML Engineering here yet; that will be later this year.
 
-> **Aiming** to complete at least 4 projects by the end of _June_.
+**Aiming** to complete at least 4 projects by the end of ***June***.
 
 ----------
 
 #### Start Reading & Implementing Papers - Hopefully 1 Paper Each Month
 
 > [!IMPORTANT]
-> First Half of 2025
+> First Half of 2025\
 > Second Half of 2025
 
-Only start this after you're done with the objectives till the end of _February_.
+Only start this after you're done with the objectives till the end of ***February***.
 
-> **Aiming** to read & reimplement hopefully 10 papers this year.
+**Aiming** to read & reimplement hopefully 10 papers this year.
 
 ----------
 
 #### Complete all the Deep-ML questions
 
 > [!IMPORTANT]
-> First Half of 2025
+> First Half of 2025\
 > Second Half of 2025
 
 This is like leetcode but for ML, and there are 88 questions there as of today. Aim is to complete them all.
 
-> **Aiming** to solve 1-2 questions each week, starting _March_.
+**Aiming** to solve 1-2 questions each week, starting ***March***.
 
 ---
 
@@ -137,8 +139,8 @@ This is like leetcode but for ML, and there are 88 questions there as of today. 
 
 2. Read the __Designing ML Systems__ book by Chip Huyen.
 3. From Ray Yoo:
-    > **dissect how big real world companies are designing their ML systems (blog posts usually)**.
-    > [Pinterest ML Blog in Medium](https://medium.com/pinterest-engineering/tagged/machine-learning)
+    - **dissect how big real world companies are designing their ML systems (blog posts usually)**.
+    - [Pinterest ML Blog in Medium](https://medium.com/pinterest-engineering/tagged/machine-learning)
 
 4. Ask yourself relevant questions regarding ML Engineering:
     - Do you understand the deployment process in production?
@@ -171,7 +173,7 @@ This is something important for ML in general (DL, CUDA, etc.), and I've also al
 Resources? Ask people on Twitter.
 
 > [!IMPORTANT]
-> Reach a point where you can do basic ML stuff with C++ (writing and training a simple MLP, building an autograd engine in C, __add more_).
+> Reach a point where you can do basic ML stuff with C++ (writing and training a simple MLP, building an autograd engine in C, __add more__).
 
 ----------
 
