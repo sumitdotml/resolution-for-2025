@@ -1,5 +1,8 @@
 # 2025 Resolutions
 
+> [!WARNING]
+> If you plan on referencing this resolution list for your learning journey, please refer to [this blog](https://www.sumit.ml/blog/my-2025-resolution) I wrote about this list talking about how I do not necessarily plan on strictly following this timeline. However, these are still excellent resources so please make use of them as you see fit. :)
+
 ## Target Setting
 
 ### 1. ML and personal growth through self-learning
